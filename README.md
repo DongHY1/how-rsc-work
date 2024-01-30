@@ -1,8 +1,6 @@
-```
-npm install
-npm run dev
-```
+# How RSC Work
 
-```
-open http://localhost:3000
-```
+## TODO
+
+- [x] Hello World
+- [ ] stream
